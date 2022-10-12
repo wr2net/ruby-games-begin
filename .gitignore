@@ -57,4 +57,4 @@ build-iPhoneSimulator/
 # .rubocop-https?--*
 
 .idea
-teste.rb
+testes.rb
